@@ -1,0 +1,7 @@
+D:\Dev\Unreal\UnrealVRFundamentals\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\Definitions.ArchitectureExplorer.h
+D:\Dev\Unreal\UnrealVRFundamentals\ArchitectureExplorer\Source\ArchitectureExplorer\ArchitectureExplorerGameModeBase.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Dev\Unreal\UnrealVRFundamentals\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Inc\ArchitectureExplorer\ArchitectureExplorerGameModeBase.generated.h

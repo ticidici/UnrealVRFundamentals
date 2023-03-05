@@ -1,0 +1,27 @@
+[
+    {
+        "file": "D:\\\\Dev\\\\Unreal\\\\UnrealVRFundamentals\\\\ArchitectureExplorer\\\\Source\\\\ArchitectureExplorer\\\\ArchitectureExplorer.Build.cs",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Dev\\Unreal\\UnrealVRFundamentals\\ArchitectureExplorer\\.vscode\\compileCommands_Default\\ArchitectureExplorer.210.rsp\"",
+        "directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Dev\\\\Unreal\\\\UnrealVRFundamentals\\\\ArchitectureExplorer\\\\Source\\\\ArchitectureExplorer\\\\ArchitectureExplorer.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Dev\\Unreal\\UnrealVRFundamentals\\ArchitectureExplorer\\.vscode\\compileCommands_Default\\ArchitectureExplorer.210.rsp\"",
+        "directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Dev\\\\Unreal\\\\UnrealVRFundamentals\\\\ArchitectureExplorer\\\\Source\\\\ArchitectureExplorer\\\\ArchitectureExplorer.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Dev\\Unreal\\UnrealVRFundamentals\\ArchitectureExplorer\\.vscode\\compileCommands_Default\\ArchitectureExplorer.210.rsp\"",
+        "directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Dev\\\\Unreal\\\\UnrealVRFundamentals\\\\ArchitectureExplorer\\\\Source\\\\ArchitectureExplorer\\\\ArchitectureExplorerGameModeBase.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Dev\\Unreal\\UnrealVRFundamentals\\ArchitectureExplorer\\.vscode\\compileCommands_Default\\ArchitectureExplorer.210.rsp\"",
+        "directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Dev\\\\Unreal\\\\UnrealVRFundamentals\\\\ArchitectureExplorer\\\\Source\\\\ArchitectureExplorer\\\\ArchitectureExplorerGameModeBase.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Dev\\Unreal\\UnrealVRFundamentals\\ArchitectureExplorer\\.vscode\\compileCommands_Default\\ArchitectureExplorer.210.rsp\"",
+        "directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+    }
+]

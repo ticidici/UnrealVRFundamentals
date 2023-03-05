@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "ArchitectureExplorerEditor Editor Win64 Development (ArchitectureExplorer)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\Dev\\Unreal\\UnrealVRFundamentals\\ArchitectureExplorer\\.vscode\\compileCommands_ArchitectureExplorer.json",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX64\\x64\\cl.exe"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\Dev\\Unreal\\UnrealVRFundamentals\\ArchitectureExplorer\\.vscode\\compileCommands_Default.json",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX64\\x64\\cl.exe"
+        }
+    ],
+    "version": 4
+}
